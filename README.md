@@ -1,14 +1,9 @@
-# genetic-alg
+# genetic-algo
 
-Genetic algorithm optimizer
+Genetic algorithm optimizer. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
 python3 genetic_alg.py --help
 ```
-
-## Features
-
-- Zero dependencies (Python 3.8+)
-- Single file implementation
